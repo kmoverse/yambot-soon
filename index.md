@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="docs/images/logo/yambot.png?raw=true" alt="Yambot Logo" width="150">
+    <img src="yambot.png?raw=true" alt="Yambot Logo" width="150">
     <h1>Yambot</h1>
 </div>
 
